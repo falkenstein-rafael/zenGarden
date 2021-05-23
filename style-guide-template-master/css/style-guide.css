@@ -223,11 +223,11 @@ xButtons
 }
 
 .no-touch .btn:hover {
-    background: #21ddf2;
+    background: #00e5ff;
 }
 
 .btn.btn-success {
-    background: #6fce72;
+    background: #148c18;
 }
 
 .no-touch .btn.btn-success:hover {
